@@ -1,0 +1,33 @@
+<svg id="Face" xmlns="http://www.w3.org/2000/svg" width="76" height="69" viewBox="0 0 76 69">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2.96px;
+      }
+    </style>
+  </defs>
+  <g id="Eyes">
+    <g id="X">
+      <path class="cls-1" d="M11,36S42.943,6.808,31,5"/>
+      <path class="cls-2" d="M19,7s6.81,22.475,12,21"/>
+    </g>
+    <g id="O">
+      <ellipse class="cls-3" cx="51.5" cy="16.5" rx="7.5" ry="11.5"/>
+    </g>
+  </g>
+  <g id="Mouth">
+    <path id="Mouth-2" data-name="Mouth" class="cls-2" d="M7,47S46.543,85.208,68,36"/>
+    <path class="cls-1" d="M36,57L65,39h2l-1,4-5,7-3,4-5,4-5,3-4,1H36V57Z"/>
+  </g>
+</svg>

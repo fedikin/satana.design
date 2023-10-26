@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family:Poppins!important;
+}
+a {
+    transition: ease 0.5s all!important;
+}
+svg,.ion-social-twitter::before {
+    margin-top:7.5px;
+}

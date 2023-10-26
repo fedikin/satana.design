@@ -1,0 +1,170 @@
+p {
+}
+
+.brack {
+  color: white;
+}
+
+.main-code {
+  color: #9f8198;
+}
+
+.code-num {
+  color: #de6616;
+}
+
+li {
+  border: 1px solid red;
+  display: inline-block;
+}
+
+.fa {
+  padding: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+a {
+  display: block;
+}
+
+.external-links:hover {
+  opacity: 0.5;
+}
+
+.external-links {
+  transition: 0.5s all ease;
+}
+
+.card:hover {
+  filter: drop-shadow(0 0 0.45rem black);
+}
+
+.card {
+  transition: 0.5s ease all;
+}
+
+.dcard {
+  margin-right: 20px;
+}
+
+.card-text {
+  /*font-family: Fira Code;*/
+}
+
+.footer-basic {
+  padding: 40px 0;
+  background-color: #ffffff;
+  color: #4b4c4d;
+}
+
+.footer-basic ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.footer-basic li {
+  padding: 0 10px;
+}
+
+.footer-basic ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity: 1;
+}
+
+.footer-basic .social {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.footer-basic .social > a {
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin: 0 8px;
+  color: inherit;
+  opacity: 0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 0;
+}
+
+.socials {
+  border-radius: 10px!important;
+  transition: 0.5s ease all;
+}
+
+.socials:hover {
+  background-color: rgba(51,53,55,0.7);
+  color: rgba(255,255,255,0.78)!important;
+}
+
+li, a, i {
+  border: none!important;
+  transition: 0.5s all ease;
+}
+
+.card:hover {
+  border: 2px rgb(0,0,0) solid;
+}
+
+body, html {
+  /*z-index: 0;*/
+  /*overflow-y: scroll;*/
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #1d1f22;
+}
+
+::-webkit-scrollbar:horizontal {
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  border: 1px #1d1f22 solid;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3a3c41;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #32343a;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: #303237;
+}
+
+* {
+  transition: 0.5s all ease;
+}
+
